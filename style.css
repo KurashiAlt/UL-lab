@@ -1,0 +1,22 @@
+.l-block {
+	background-color: red;
+}
+.m-block {
+	background-color: black;
+	color: white;
+	padding: 1rem;
+}
+.r-block {
+	background-color: green;
+}
+a {
+	color: pink;
+}
+.main {
+	display: grid;
+	grid-template-columns: auto 50rem auto;
+	min-height: 100vh;
+}
+body {
+	margin: 0;
+}
